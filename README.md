@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wolfie1975
 - 👀 I’m interested in learning code
-- 🌱 I’m currently learning pyhon
+- 🌱 I’m currently learning python
 - 📫 How to reach me kdwservices@gmail.com
 
 <!---
